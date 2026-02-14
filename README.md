@@ -3,7 +3,7 @@
 This repository contains my first usability testing reports.
 
 ## About Me
-Beginner Manual QA tester.  
+Junior Manual QA tester.  
 Focused on usability testing and accessibility for elderly users.
 
 ## What is inside
