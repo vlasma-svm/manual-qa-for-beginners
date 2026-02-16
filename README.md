@@ -1,26 +1,21 @@
-# Manual QA & Usability Testing (Beginner Portfolio)
+# Manual QA & Usability Testing Portfolio
 
-This repository contains my first usability testing reports.
+## Project: Usability Test – Booking.com
 
-## About Me
-Junior Manual QA tester.  
-Focused on usability testing and accessibility for elderly users.
+**Website:** https://www.booking.com  
+**Test type:** Usability testing  
+**User profile:** Elderly user (65+), low digital skills  
+**Test scenario:** Find a hotel in Tel Aviv for 2 nights with free cancellation  
 
-## What is inside
-- Usability testing reports for real websites
-- Focus on clarity, readability, navigation, and accessibility
+## Key Findings
+- Free cancellation filter is not easy to find for elderly users.
+- Text size is small and causes eye strain.
+- No visible information about special offers for users aged 65+.
 
-## Skills Demonstrated
-- Manual testing
-- Usability testing
-- Test analysis
-- Writing clear bug and usability reports
+## What Worked Well
+- Logical and clear information structure.
+- Availability of customer reviews.
 
-## Reports
-- usability-test-website-01.md — usability test report (RU)
-- usability-test-website-02-en.md — usability test report (EN)
-
-## Tools
-- Web browser testing
-- GitHub (basic)
-- Markdown documentation
+## Full Report
+See the detailed usability test report here:  
+👉 `usability-test-booking-01-en.md`
